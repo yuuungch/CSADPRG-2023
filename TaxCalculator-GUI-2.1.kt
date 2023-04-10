@@ -1,3 +1,9 @@
+/********************
+Name: Argamosa, Daniel; Azevedo, Marquus; Kua, Miguel; Yung Cheng, Adrian
+Language: Kotlin
+Paradigm: Multi-Paradigm (Object-Oriented Programming)
+********************/
+
 import javax.swing.*
 import java.awt.*
 import java.awt.event.*
