@@ -1,7 +1,7 @@
 /********************
 Name: Argamosa, Daniel; Azevedo, Marquus; Kua, Miguel; Yung Cheng, Adrian
 Language: Kotlin
-Paradigm: Multi-Paradigm (Object-Oriented Programming)
+Paradigm: Multi-Paradigm - Object-Oriented Programming, Functional Programming
 ********************/
 
 import javax.swing.*
